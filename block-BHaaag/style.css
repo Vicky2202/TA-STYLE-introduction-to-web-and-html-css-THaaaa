@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(34,57,106);
+}
+#unique {
+    color: rgb(255,255,255);
+}
+.awesome {
+    color: green;
+    font-size: 28px;
+}
+.more {
+    color: rgb(205,210,221);
+    font-size: 22px;
+}
+.love {
+    color: rgb(205,210,221) ;
+    font-size: 15px;
+}
+.connect {
+    color: rgb(207,39,82);
+}
