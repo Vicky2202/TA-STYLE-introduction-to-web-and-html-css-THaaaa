@@ -1,0 +1,15 @@
+body {
+    background-color: royalblue;
+}
+#unique {
+    color: red;
+    font-size: 64px;
+}
+.awesome {
+    color: salmon;
+    font-size: 24px;
+}
+div {
+    color: seagreen;
+    font-size: 24px;
+}
