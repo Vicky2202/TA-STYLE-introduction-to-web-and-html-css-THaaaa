@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(34,57,106);
+    color: white;
+}
+h2 {
+    color: green;
+    font-size: 28px;
+}
+h3 {
+    color: rgb(255,255,255);
+    font-size: 22px;
+}
+footer {
+  text-align: center;
+}
+a{
+    color: rgb(207,39,82);
+}
